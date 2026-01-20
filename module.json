@@ -1,0 +1,33 @@
+{
+  "id": "order-1-1",
+  "title": "Order 1-1",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "d20_dragon",
+      "url": "https://www.patreon.com/cw/d20_dragon",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Order-1",
+      "label": "Order 1-1",
+      "path": "packs/Order-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://www.patreon.com/cw/d20_dragon",
+  "description": ""
+}
